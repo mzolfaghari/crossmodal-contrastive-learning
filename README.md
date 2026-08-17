@@ -4,7 +4,7 @@
 </p>
 This is the official implementation of paper:
 
-### CrossCLR: Cross-modal Contrastive Learning For Multi-modal Video Representations [[Paper]](https://arxiv.org/abs/2103.00020) 
+### CrossCLR: Cross-modal Contrastive Learning For Multi-modal Video Representations [[Paper]](https://arxiv.org/abs/2109.14910)
 
 Authors: 
 [Mohammadreza Zolfaghari](https://mzolfaghari.github.io/),
